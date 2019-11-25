@@ -16,3 +16,30 @@ header div{
 .nadpis{
   flex-grow: 8;
 }
+
+nav li{
+  display: flex;
+  background: green;
+  padding:10px;
+  margin:10px;
+}
+
+nav li a{
+  display: block;
+}
+
+section{
+  background: red;
+  padding:10px;
+  margin:10px;
+  border: 1px black solid;
+  width: 80%;
+}
+
+aside{
+  background: red;
+  padding:10px;
+  margin:10px;
+  border: 1px black solid;
+  width: 20%;
+}
